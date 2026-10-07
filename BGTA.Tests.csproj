@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BGTA.Server\BGTA.Server.csproj" />
-    <ProjectReference Include="..\BGTA.Shared\BGTA.Shared.csproj" />
+    <ProjectReference Include="..\BGTA-server\BGTA.Server.csproj" />
+    <ProjectReference Include="..\BGTA-shared\BGTA.Shared.csproj" />
   </ItemGroup>
 
 </Project>
